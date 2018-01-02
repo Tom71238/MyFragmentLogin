@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFragmentLogin</string>
+    <string name="emailhint_res">email address</string>
+    <string name="passwordHint_res">password</string>
+    <string name="buttonLogin_res">Login</string>
+    <string name="email_res">email address</string>
+    <string name="password_res">password</string>
+    <string name="btLogin_res">Login</string>
+    <string name="buLogin_res">Login</string>
+</resources>
